@@ -1,0 +1,24 @@
+{
+  "name": "jubelio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^4.1.0",
+    "axios": "^0.19.2",
+    "create-react-app": "^3.4.1",
+    "hapi": "^18.1.0",
+    "hapi-axios": "^1.0.0",
+    "http": "0.0.1-security",
+    "inert": "^5.1.3",
+    "pg": "^8.0.3",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  }
+}
