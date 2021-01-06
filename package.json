@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "agentkeepalive": "^4.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "create-react-app": "^3.4.1",
     "hapi": "^18.1.0",
     "hapi-axios": "^1.0.0",
